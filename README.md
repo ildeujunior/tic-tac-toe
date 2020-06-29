@@ -1,2 +1,2 @@
-# tic-tac-toe
-tic-tac-toe game with react
+# tic-tac-toe Game with React
+Run 'npm start' and have fun ^_^
